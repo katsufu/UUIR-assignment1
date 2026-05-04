@@ -1,0 +1,8 @@
+trained_model/
+__pycache__/
+*.pt
+*.bin
+*.safetensors
+.upload_config.json
+.upload_model_config.json
+results/
